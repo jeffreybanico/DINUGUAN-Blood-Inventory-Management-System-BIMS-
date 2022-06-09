@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdminDonorList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRequestInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Backup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Restore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NursesBloodInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NurseDonorInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NurseDonorList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NurseRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NurseRequestInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminInterface.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDonorInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminBloodInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NurseInterface.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PasswordRecovery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
