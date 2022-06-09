@@ -1,4 +1,4 @@
-# DINUGUAN-Blood-Inventory-Management-System-BIMS-
+# DINUGUAN: Blood Inventory Management System BIMS
 DINUGUAN Blood Inventory Management System is a system that facilitates hospital blood inventory transactions including registration of eligible donors, monitoring of blood stocks inventory, verification of blood requests, and safekeeping of blood donation information. This system is inclined towards digitizing and streamlining the workflow of blood inventories. The information system includes two user types: admin and nurse.
 
 ***Basic Features:***
