@@ -60,7 +60,7 @@ DINUGUAN Blood Inventory Management System is a system that facilitates hospital
   <img width="950" src="https://github.com/jeffreybanico/DINUGUAN-Blood-Inventory-Management-System-BIMS-/blob/main/img/Request.png" alt="Request Management">
 </p>
 
-## To use:
+## To use
 1. Install and set up Visual Studio 2019 or newer version
 2. Install and set up MySQL Server
 3. Downlaod the blood_ forlder
