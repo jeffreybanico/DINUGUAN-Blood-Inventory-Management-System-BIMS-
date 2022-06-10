@@ -1,7 +1,7 @@
 # DINUGUAN: Blood Inventory Management System (BIMS)
 DINUGUAN Blood Inventory Management System is a system that facilitates hospital blood inventory transactions including registration of eligible donors, monitoring of blood stocks inventory, verification of blood requests, and safekeeping of blood donation information. This system is inclined towards digitizing and streamlining the workflow of blood inventories. The information system includes two user types: admin and nurse.
 
-## Basic Features:
+## Basic Features
 ***1. Login and Registration <br>***
 <p align="center">
   <img width="950" src="https://github.com/jeffreybanico/DINUGUAN-Blood-Inventory-Management-System-BIMS-/blob/main/img/login.png" alt="Login Page">
@@ -73,7 +73,7 @@ DINUGUAN Blood Inventory Management System is a system that facilitates hospital
 10. Lastly, try to build the program it self by clicking the green play button above
 11. Have a nice try 😁
 
-# To Access
+## To Access
 ***Admin***<br>
 username: jeff<br>
 password: earth
