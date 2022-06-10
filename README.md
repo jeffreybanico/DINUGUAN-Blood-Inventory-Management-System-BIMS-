@@ -69,8 +69,9 @@ DINUGUAN Blood Inventory Management System is a system that facilitates hospital
 6. Go to the **blood_msdb.vb** and change the username and password of the database. (note: insert the password and username of your db where you import the database blood_msdb.sql)
 7. Following this go to the **AdminRequest.vb** and look for C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\templates\ and C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\requestlist\ change this to the path of your device where the templates of the report to be generated and the storage located
 8. Furthermore, go to the  **AdminDonorList.vb** and look for C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\templates\ and C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\donorlist\ also change this to the path of your device where the templates of the report to be generated and the storage located
-9. Lastly, try to build the program it self by clicking the green play button above
-10. Have a nice try 😁
+9. Another, go to the  **AdminBloodInventory.vb** and look for C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\templates\ and C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\bloodinventory\ also change this to the path of your device where the templates of the report to be generated and the storage located
+10. Lastly, try to build the program it self by clicking the green play button above
+11. Have a nice try 😁
 
 # To Access
 ***Admin***<br>
