@@ -64,7 +64,7 @@ DINUGUAN Blood Inventory Management System is a system that facilitates hospital
 1. Install and set up Visual Studio 2019 or newer version
 2. Install and set up MySQL Server
 3. Downlaod the blood_ forlder
-4. Go to MySQL and Import the Database named **blood_msdb.sql** 
+4. Go to MySQL and Import the Database named **blood_msdb.sql**
 5.After importing the database open Visual Studio 2019 and navigate to the folder blood_ (note: before opening the folder blood_ reassure you extracted it first)
 6. Go to the **blood_msdb.vb** and change the username and password of the database. (note: insert the password and username of your db where you import the database blood_msdb.sql)
 7. Following this go to the **AdminRequest.vb** and look for C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\templates\ and C:\Users\Jeffrey Banico\Desktop\EDP\BIMS - FINAL PROJECT\requestlist\ change this to the path of your device where the templates of the report to be generated and the storage located
